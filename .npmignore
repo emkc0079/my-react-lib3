@@ -1,4 +1,6 @@
 src/
-node_modules/
-*.log
 *.ts
+*.tsx
+*.log
+*.md
+node_modules/

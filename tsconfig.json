@@ -5,6 +5,7 @@
     "jsx": "react",
     "declaration": true,
     "outDir": "./dist",
+    "rootDir": "./src",
     "strict": true,
     "esModuleInterop": true, // Add this line
     "skipLibCheck": true // Optional: speeds up build by skipping type checking of declaration files
