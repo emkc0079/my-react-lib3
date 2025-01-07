@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "jsx": "react",
+    "declaration": true,
+    "outDir": "./dist",
+    "strict": true,
+    "esModuleInterop": true, // Add this line
+    "skipLibCheck": true // Optional: speeds up build by skipping type checking of declaration files
+  },
+  "include": ["src/**/*"]
+}
